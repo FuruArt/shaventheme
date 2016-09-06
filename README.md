@@ -3,6 +3,9 @@
 ### Shaven - Clean & Smart Blog theme for Jekyll / Wordpress / Static HTML for developers
 #### Responsive design, Simplicity, Clarity and Good readability with Material Design like style
 ---
-Version: 0.0.1 Alpha
+Version: 0.0.2 Alpha
 
-Still design process...
+Design Process completed
+
+- [x] File structure
+
